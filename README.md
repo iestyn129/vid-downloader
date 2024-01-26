@@ -8,8 +8,10 @@ The quicker way is to run main.py with Python, you will have to run `pip install
 
 ## Supported platforms
 YouTube, Youtube or youtube
+
 TikTok, Tiktok and tiktok
 
 ## Supported file types
 MP4, Mp4 and mp4
+
 MP3, Mp3 and mp3
